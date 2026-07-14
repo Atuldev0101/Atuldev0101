@@ -1,361 +1,167 @@
-<h1 align="center">
-Hi 👋, I'm Atul Pandey
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Senior Full Stack Software Engineer | SaaS Architect | Cyber Security Enthusiast | Open Source Contributor
-</h3>
+# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45"> ATUL PANDEY
 
-<p align="center">
-Building scalable web applications, enterprise software, cloud solutions, AI-powered products and secure systems.
-</p>
+```text
+█████╗ ████████╗██╗   ██╗██╗
+██╔══██╗╚══██╔══╝██║   ██║██║
+███████║   ██║   ██║   ██║██║
+██╔══██║   ██║   ██║   ██║██║
+██║  ██║   ██║   ╚██████╔╝███████╗
+╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+```
 
-<p align="center">
+### 💀 Software Engineer • Secure Coding • AI • Linux • Open Source
 
-<img src="https://komarev.com/ghpvc/?username=Atuldev0101&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Secure+Software+Engineer;Linux+Enthusiast;Building+Enterprise+Applications;Learning+Cyber+Security;AI+%7C+Cloud+%7C+DevOps" />
 
-<img src="https://img.shields.io/github/followers/Atuldev0101?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Atuldev0101?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 💼 About Me
+# 🖥️ SYSTEM STATUS
 
-```javascript
-const Atul = {
-
-    name: "Atul Pandey",
-
-    role: "Senior Full Stack Software Engineer",
-
-    company: "Biosoftech Solutions Pvt. Ltd.",
-
-    location: "India",
-
-    experience: [
-        "Enterprise Software",
-        "ERP Development",
-        "CRM Development",
-        "POS Systems",
-        "Hospital Management",
-        "Restaurant Management",
-        "School ERP",
-        "Hotel Management",
-        "Billing Software",
-        "Cloud Applications"
-    ],
-
-    currentFocus: [
-        "Artificial Intelligence",
-        "Cyber Security",
-        "System Design",
-        "Cloud Computing",
-        "DevOps",
-        "Microservices"
-    ],
-
-    hobbies: [
-        "Coding",
-        "Learning New Technologies",
-        "Open Source",
-        "Problem Solving"
-    ]
-
-}
+```text
+► NAME        : Atul Pandey
+► ROLE        : Full Stack Software Engineer
+► COMPANY     : Biosoftech Solutions Pvt. Ltd.
+► LOCATION    : India
+► STATUS      : ONLINE
+► TERMINAL    : ACTIVE
+► MISSION     : Build Secure Enterprise Software
 ```
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ TECH ARSENAL
 
-## Programming Languages
+### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=typescript"/>
-
-<img src="https://skillicons.dev/icons?i=go"/>
-
-<img src="https://skillicons.dev/icons?i=rust"/>
-
-<img src="https://skillicons.dev/icons?i=kotlin"/>
-
-<img src="https://skillicons.dev/icons?i=swift"/>
-
-</p>
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![PHP](https://skillicons.dev/icons?i=php)
+![Go](https://skillicons.dev/icons?i=go)
 
 ---
 
-# 🌐 Frontend Development
+### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=redux"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-<img src="https://skillicons.dev/icons?i=materialui"/>
-
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ---
 
-# ⚙️ Backend Development
+### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=nestjs"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-</p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Django](https://skillicons.dev/icons?i=django)
 
 ---
 
-# 🗄️ Databases
+### Database
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
 
 ---
 
-# ☁️ Cloud & DevOps
+### DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-
-<img src="https://skillicons.dev/icons?i=nginx"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
-</p>
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
 ---
 
-# 🔐 Cyber Security
+# 🔐 SECURITY INTERESTS
 
-- Web Application Security
-- Secure Coding Practices
-- OWASP Top 10 Awareness
-- API Security
-- Authentication & Authorization
-- JWT Security
-- OAuth 2.0
-- HTTPS & SSL
-- SQL Injection Prevention
-- XSS Prevention
-- CSRF Protection
-- Secure REST APIs
-- Network Security Fundamentals
-- Ethical Hacking (Learning)
-- Penetration Testing Basics
-- Linux Security
-- Security Automation
+```text
+[✓] Secure Coding
+[✓] Web Security
+[✓] API Security
+[✓] Authentication
+[✓] Authorization
+[✓] Linux
+[✓] Docker Security
+[✓] Reverse Engineering (Learning)
+[✓] Capture The Flag (Learning)
+[✓] Malware Analysis (Learning)
+[✓] Network Security Fundamentals
+[✓] OWASP Top 10
+```
 
 ---
 
-# 🤖 Artificial Intelligence
+# 🚀 CURRENT PROJECTS
 
-- Machine Learning
-- Deep Learning
-- OpenAI APIs
-- LLM Applications
-- Prompt Engineering
-- AI Automation
-- Chatbot Development
-- Computer Vision
-- NLP
+💻 Restaurant ERP
 
----
+🏨 Hotel ERP
 
-# 📱 Software Development
+🏥 Hospital ERP
 
-✔ ERP Systems
+🎓 School ERP
 
-✔ CRM Systems
+💰 Billing Software
 
-✔ POS Billing
+🤖 AI Integrations
 
-✔ Restaurant Management
+☁ Cloud Infrastructure
 
-✔ Hotel Management
-
-✔ Hospital ERP
-
-✔ School ERP
-
-✔ Inventory Management
-
-✔ Visitor Management
-
-✔ Attendance System
-
-✔ HRMS
-
-✔ Multi-Tenant SaaS
-
-✔ REST APIs
-
-✔ Microservices
-
-✔ Payment Gateway
-
-✔ WhatsApp Integration
-
-✔ QR Systems
+🔐 Secure Authentication Systems
 
 ---
 
-# 🛠 Tools
+# 📈 GITHUB
 
-Git
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atuldev0101&show_icons=true&theme=chartreuse-dark"/>
 
-GitHub
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atuldev0101&theme=chartreuse-dark"/>
 
-VS Code
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atuldev0101&theme=react-dark"/>
 
-Postman
-
-Figma
-
-Jira
-
-Notion
-
-Android Studio
-
-Visual Studio
-
-Docker Desktop
-
-Linux
-
-Windows Server
+<img src="https://github-profile-trophy.vercel.app/?username=Atuldev0101&theme=matrix&column=4"/>
 
 ---
 
-# 📈 GitHub Analytics
+# 💻 TERMINAL
 
-<p align="center">
+```bash
+$ whoami
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atuldev0101&show_icons=true&theme=tokyonight"/>
+Atul Pandey
 
-</p>
+$ cat mission.txt
 
-<p align="center">
+Build secure software.
+Learn every day.
+Contribute to open source.
+Create products that solve real problems.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atuldev0101&theme=tokyonight"/>
+$ uptime
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atuldev0101&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atuldev0101&theme=tokyonight&column=4"/>
-
-</p>
+∞
+```
 
 ---
 
-# 🎯 Current Goals
+<div align="center">
 
-- 🚀 Build World-Class SaaS Products
-- 🤖 Master Artificial Intelligence
-- 🔐 Become an Expert in Cyber Security
-- ☁ Master Cloud Architecture
-- 🌍 Contribute to Open Source
-- 📚 Continuous Learning Every Day
+### ⚡ "Code Secure. Build Smart. Never Stop Learning."
 
----
-
-# 📫 Connect With Me
-
-📧 Email: atulpandey3812@gmail.com
-
-💻 GitHub: https://github.com/Atuldev0101
-
-🌐 Portfolio: Coming Soon
-
-💼 LinkedIn: Coming Soon
-
----
-
-<h2 align="center">
-
-"Code. Secure. Scale. Innovate."
-
-</h2>
+</div>
